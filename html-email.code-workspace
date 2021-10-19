@@ -1,0 +1,30 @@
+{
+    "folders": [
+        {
+            // Git silent install
+            "name": "silent-install-git",
+            "path": "..\\Git"
+        },
+        {
+            // Silent install automation process
+            "name": "silent-install-auto",
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.defaultLanguage": "powershell",
+		"workbench.colorTheme": "PowerShell ISE",
+        "files.autoSave": "afterDelay",
+        "files.autoSaveDelay": 500,
+        "terminal.integrated.fontFamily": "CaskaydiaCove NF"
+    },
+    "extensions": {
+        "recommendations": [
+            "mhutchie.git-graph",
+            "github.remotehub",
+            "ms-vscode.powershell",
+            "2gua.rainbow-brackets",
+            "vscode-icons-team.vscode-icons"
+        ]
+    }
+}
