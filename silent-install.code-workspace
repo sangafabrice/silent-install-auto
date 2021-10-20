@@ -3,7 +3,7 @@
         {
             // Git silent install
             "name": "silent-install-git",
-            "path": "..\\Git"
+            "path": "..\\git"
         },
         {
             // Silent install automation process
