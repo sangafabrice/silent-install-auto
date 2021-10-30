@@ -6,11 +6,6 @@
             "path": "..\\winget"
         },
         {
-            // Silent install automation process
-            "name": "silent-install-auto",
-            "path": "."
-        },
-        {
             // cURL silent install
             "name": "silent-install-curl",
             "path": "..\\curl"
@@ -19,6 +14,11 @@
             // Git silent install
             "name": "silent-install-git",
             "path": "..\\git"
+        },
+        {
+            // Silent install automation process
+            "name": "silent-install-auto",
+            "path": "."
         }
     ],
     "settings": {
