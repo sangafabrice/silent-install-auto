@@ -1,9 +1,9 @@
 {
     "folders": [
         {
-            // cURL silent install
-            "name": "silent-install-curl",
-            "path": "..\\curl"
+            // WinGet silent install
+            "name": "silent-install-winget",
+            "path": "..\\winget"
         },
         {
             // Silent install automation process
@@ -11,9 +11,9 @@
             "path": "."
         },
         {
-            // WinGet silent install
-            "name": "silent-install-winget",
-            "path": "..\\winget"
+            // cURL silent install
+            "name": "silent-install-curl",
+            "path": "..\\curl"
         },
         {
             // Git silent install
