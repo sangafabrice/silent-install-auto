@@ -1,6 +1,11 @@
 {
     "folders": [
         {
+            // Jq silent install
+            "name": "silent-install-jq",
+            "path": "..\\jq"
+        },
+        {
             // WinGet silent install
             "name": "silent-install-winget",
             "path": "..\\winget"
